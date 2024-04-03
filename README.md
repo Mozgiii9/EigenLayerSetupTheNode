@@ -256,8 +256,8 @@ chain_id: 5
 - delegation_approver_address : Оставьте по умолчанию.
 - staker_opt_out_window_blocks : Оставьте по умолчанию.
 - metadata_url : Вставьте RAW ссылку на Ваш файл "metadata.json", который хранится в Вашем репозитории на Github. Для того, чтобы вставить RAW ссылку, нажмите на кнопку "RAW". На скрине ниже все подробно показано.
-- el_delegation_manager_address : Вставьте значение 0x1b7b8F6b258f95Cf9596EabB9aa18B62940Eb0a8
-- eth_rpc_url : Вставьте значение https://rpc.ankr.com/eth_goerli
+- el_delegation_manager_address : Вставьте значение 0xA44151489861Fe9e3055d95adC98FbD462B948e7
+- eth_rpc_url : Вставьте значение wss://ethereum-holesky-rpc.publicnode.com или любой другой RPC Holesky. Сайт для просмотра доступных Holesky RPC - [тык](https://chainlist.org/chain/17000).
 - private_key_store_path : Укажите имя Вашего ключа вместо <KEY_NAME>.
 - signer_type : Оставьте local_keystore.
 - chain_id : 17000.
